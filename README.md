@@ -1,10 +1,10 @@
-|P000744|རྒྱན་གྱི་ཊི་ཀ 
+|IC83C0B03|རྒྱན་གྱི་ཊི་ཀ 
 | --- | --- 
 |Alternative Title |མངོན་རྟོགས་རྒྱན་གྱི་ཊིཀྐ་བཤད་བསྒྲིགས་སུ་བྱས་པ་ལས་སྐབས་བརྒྱད་ཀྱི་ཚིག་འགྲེལ།
 |Author| ཅོ་ནེ་གྲགས་པ་བཤད་སྒྲུབ།
 |BDRC ID | W1KG4779
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P000744)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P000744/releases/download/v1/gyen_gyi_ti_ka_plain_P000744.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P000744/releases/download/v1/gyen_gyi_ti_ka_pages_P000744.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IC83C0B03)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IC83C0B03/releases/download/v1/gyen_gyi_ti_ka_plain_IC83C0B03.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IC83C0B03/releases/download/v1/gyen_gyi_ti_ka_pages_IC83C0B03.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG4779)
